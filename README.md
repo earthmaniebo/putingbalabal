@@ -19,4 +19,8 @@ If you need to add another case, modify the source code and add another
 
 ## Cigarette Butts Problem
 How to run:
-TBA
+
+`python cigarette.py`
+
+If you need to add another case, modify the source code and add another
+`cigarette()` statement inside the main method.
